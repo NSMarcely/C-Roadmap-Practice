@@ -53,7 +53,7 @@ int main(){
         scanf(" %f",&number2);
 
         if (ope == '/' && number2 == 0){
-            puts("Não é possivel fazer divisão por 0!\n");
+            puts("Não é possivel fazer divisão p2or 0!\n");
             continue;;
         }
 
